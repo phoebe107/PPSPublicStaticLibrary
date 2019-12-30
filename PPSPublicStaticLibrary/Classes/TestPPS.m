@@ -9,7 +9,7 @@
 #import <AFNetworking/AFNetworking.h>
 //#import <Lottie/Lottie.h>
 #import <JSONModel/JSONModel.h>
-#import <SDWebImage/SDWebImage.h>
+//#import <SDWebImage/SDWebImage.h>
 #import <Masonry/Masonry.h>
 #import <MJRefresh/MJRefresh.h>
 #import <MBProgressHUD/MBProgressHUD.h>

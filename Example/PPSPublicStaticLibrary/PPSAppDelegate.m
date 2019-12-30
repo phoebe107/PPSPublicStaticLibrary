@@ -14,6 +14,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    TestPPS *pps = [TestPPS new];
+    [pps tommyzTest];
     return YES;
 }
 

@@ -1,6 +1,6 @@
 {
   "name": "PPSPublicStaticLibrary",
-  "version": "0.1.3",
+  "version": "0.1.10",
   "summary": "TEST",
   "description": "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST.",
   "homepage": "https://github.com/phoebe107/PPSPublicStaticLibrary.git",
@@ -12,18 +12,14 @@
     "Phoebe": "phoebe.lin@friendo.com.tw"
   },
   "source": {
-    "git": "/Users/phoebe.lin/Desktop/PodDemo/PPSPublicStaticLibrary\n",
-    "tag": "0.1.3"
+    "git": "/Users/phoebe.lin/PPSPublicStaticLibrary",
+    "tag": "0.1.10"
   },
   "platforms": {
     "ios": "9.0"
   },
   "source_files": "PPSPublicStaticLibrary/Classes/**/*",
   "requires_arc": true,
-  "static_framework": true,
-  "ios": {
-    "vendored_frameworks": "ios/PPSPrivateStaticLibrary.framework"
-  },
   "public_header_files": "PPSPublicStaticLibrary/Classes/*.h",
   "dependencies": {
     "AFNetworking": [
@@ -35,17 +31,11 @@
     "Masonry": [
 
     ],
-    "lottie-ios": [
-
-    ],
     "MBProgressHUD": [
       "~> 1.1.0"
     ],
     "MJRefresh": [
 
-    ],
-    "SDWebImage": [
-      "~> 5.0"
     ]
   }
 }
