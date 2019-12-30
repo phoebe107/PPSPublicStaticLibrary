@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PPSPublicStaticLibrary'
-  s.version          = '0.1.3'
+  s.version          = '0.1.7'
   s.summary          = 'TEST'
 
 # This description is used to generate tags and improve search results.
@@ -26,8 +26,7 @@ TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Phoebe' => 'phoebe.lin@friendo.com.tw' }
   # s.source           = { :git => 'https://github.com/Phoebe/PPSPublicStaticLibrary.git', :tag => s.version.to_s }
-   s.source           = { :git => '/Users/phoebe.lin/Desktop/PodDemo/PPSPublicStaticLibrary
-', :tag => s.version.to_s }
+  s.source           = { :git => '/Users/phoebe.lin/PPSPublicStaticLibrary', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
   s.source_files = 'PPSPublicStaticLibrary/Classes/**/*'
