@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PPSPublicStaticLibrary'
-  s.version          = '0.1.7'
+  s.version          = '0.1.8'
   s.summary          = 'TEST'
 
 # This description is used to generate tags and improve search results.
@@ -31,8 +31,8 @@ TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST.
   s.ios.deployment_target = '9.0'
   s.source_files = 'PPSPublicStaticLibrary/Classes/**/*'
   s.requires_arc = true
-  s.static_framework = true
-  s.ios.vendored_frameworks = 'ios/PPSPrivateStaticLibrary.framework'
+  #s.static_framework = true
+  #s.ios.vendored_frameworks = 'ios/PPSPrivateStaticLibrary.framework'
   
   # s.resource_bundles = {
   #   'PPSPublicStaticLibrary' => ['PPSPublicStaticLibrary/Assets/*.png']

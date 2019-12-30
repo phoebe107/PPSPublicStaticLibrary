@@ -7,7 +7,7 @@
 
 #import "TestPPS.h"
 #import <AFNetworking/AFNetworking.h>
-#import <Lottie/Lottie.h>
+//#import <Lottie/Lottie.h>
 #import <JSONModel/JSONModel.h>
 #import <SDWebImage/SDWebImage.h>
 #import <Masonry/Masonry.h>
