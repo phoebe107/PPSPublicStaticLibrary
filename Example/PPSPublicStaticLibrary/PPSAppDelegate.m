@@ -7,6 +7,7 @@
 //
 
 #import "PPSAppDelegate.h"
+#import <PPSPublicStaticLibrary/TestPPS.h>
 
 @implementation PPSAppDelegate
 

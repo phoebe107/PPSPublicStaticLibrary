@@ -1,6 +1,6 @@
 {
   "name": "PPSPublicStaticLibrary",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "TEST",
   "description": "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST.",
   "homepage": "https://github.com/phoebe107/PPSPublicStaticLibrary.git",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "/Users/phoebe.lin/Desktop/PodDemo/PPSPublicStaticLibrary\n",
-    "tag": "0.1.2"
+    "tag": "0.1.3"
   },
   "platforms": {
     "ios": "9.0"
