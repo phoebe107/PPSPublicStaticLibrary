@@ -1,6 +1,0 @@
-framework module PPSPublicStaticLibrary {
-  umbrella header "PPSPublicStaticLibrary-umbrella.h"
-
-  export *
-  module * { export * }
-}
