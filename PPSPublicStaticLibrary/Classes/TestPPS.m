@@ -16,4 +16,7 @@
 
 @implementation TestPPS
 
+- (void)tommyzTest {
+    NSLog(@"tommyzTest");
+}
 @end

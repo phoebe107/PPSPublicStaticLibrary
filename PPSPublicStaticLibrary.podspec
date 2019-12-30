@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PPSPublicStaticLibrary'
-  s.version          = '0.1.9'
+  s.version          = '0.1.10'
   s.summary          = 'TEST'
 
 # This description is used to generate tags and improve search results.
@@ -46,5 +46,5 @@ TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST.
    #s.dependency  'lottie-ios'
    s.dependency  'MBProgressHUD', '~> 1.1.0'
    s.dependency  'MJRefresh'
-   s.dependency  'SDWebImage', '~> 5.0'
+   #s.dependency  'SDWebImage', '~> 5.0'
 end
