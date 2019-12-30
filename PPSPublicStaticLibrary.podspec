@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PPSPublicStaticLibrary'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'TEST'
 
 # This description is used to generate tags and improve search results.
@@ -49,4 +49,3 @@ TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST.
    s.dependency  'MJRefresh'
    s.dependency  'SDWebImage', '~> 5.0'
 end
-/Users/phoebe.lin/Desktop/PPSPrivateStaticLibrary bad
