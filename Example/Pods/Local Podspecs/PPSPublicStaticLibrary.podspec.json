@@ -1,0 +1,46 @@
+{
+  "name": "PPSPublicStaticLibrary",
+  "version": "0.1.0",
+  "summary": "TEST",
+  "description": "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST.",
+  "homepage": "https://github.com/Phoebe/PPSPublicStaticLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Phoebe": "phoebe.lin@friendo.com.tw"
+  },
+  "source": {
+    "git": "/Users/phoebe.lin/Desktop/PodDemo/PPSPublicStaticLibrary\n",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PPSPublicStaticLibrary/Classes/**/*",
+  "public_header_files": "PPSPublicStaticLibrary/Classes/**/*.h",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ],
+    "JSONModel": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "lottie-ios": [
+
+    ],
+    "MBProgressHUD": [
+      "~> 1.1.0"
+    ],
+    "MJRefresh": [
+
+    ],
+    "SDWebImage": [
+      "~> 5.0"
+    ]
+  }
+}
